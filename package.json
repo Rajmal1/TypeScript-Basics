@@ -1,0 +1,24 @@
+{
+  "name": "TypeScript-Basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajmal1/TypeScript-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajmal1/TypeScript-Basics/issues"
+  },
+  "homepage": "https://github.com/Rajmal1/TypeScript-Basics#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
